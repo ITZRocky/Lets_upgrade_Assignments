@@ -1,0 +1,31 @@
+body{
+    background-color: hotpink;
+}
+
+.forms {
+    margin-top: 150px;
+    text-align: center;
+    color:black;
+    font-weight: bold;
+}
+#fn{
+    border: none;
+    padding: 5px;
+    border-radius: 250px;
+    font-weight: 700;
+}
+
+.btn{
+    background-color: white;
+    color: black;
+    width: 100px;
+    border: none;
+    margin-left: 200px ;
+    padding: 2px;
+    border-radius: 50px;
+    font-weight: 700;
+}
+.btn:hover{
+    background-color: rgb(173, 13, 221);
+    color: white;
+}
